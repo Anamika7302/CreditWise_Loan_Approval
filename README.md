@@ -69,20 +69,7 @@ The goal is to introduce an AI-powered system that:
 
 ### System Architecture / Workflow
 
-Raw Dataset
-     ↓
-Data Cleaning & Preprocessing
-     ↓
-Feature Engineering
-     ↓
-Train-Test Split
-     ↓
-Model Training
-     ↓
-Model Evaluation
-     ↓
-Prediction & Risk Scoring
-
+Raw Dataset  ->  Data Cleaning & Preprocessing  ->  Feature Engineering  ->  Train-Test Split  -> Model Training  ->  Model Evaluation  -> Prediction & Risk Scoring
 
 
 ### Technologies Used
