@@ -1,5 +1,5 @@
 
-**Project Overview**
+### Project Overview
 
 The Credit Wise Loan System is an end-to-end Machine Learning solution designed to automate and optimize loan approval decisions for financial institutions.
 
@@ -8,7 +8,7 @@ Traditionally, loan approvals rely on manual verification — leading to slow pr
 This project builds an intelligent classification system that predicts whether a loan should be Approved (1) or Rejected (0) based on applicant financial and demographic data.
 
 
-**Business Problem**
+### Business Problem
 
 A financial institution processes hundreds of loan applications daily.
 
@@ -33,7 +33,7 @@ The goal is to introduce an AI-powered system that:
 -> Assists loan officers before final verification
 
 
-**Objectives**
+### Objectives
 
 -> Perform exploratory data analysis on structured loan data
 
@@ -48,7 +48,7 @@ The goal is to introduce an AI-powered system that:
 -> Provide interpretable credit risk insights
 
 
-**Dataset Description**
+### Dataset Description
 
 | Feature            | Description                         |
 | ------------------ | ----------------------------------- |
@@ -67,7 +67,7 @@ The goal is to introduce an AI-powered system that:
 | Loan_Approved      | Target (1 = Approved, 0 = Rejected) |
 
 
-**System Architecture / Workflow**
+### System Architecture / Workflow
 
 Raw Dataset
      ↓
@@ -85,7 +85,7 @@ Prediction & Risk Scoring
 
 
 
-**Technologies Used**
+### Technologies Used
 
 
 Python 3.x
@@ -102,7 +102,7 @@ Jupyter Notebook
 
 
 
-**Model Development**
+### Model Development
 
  Algorithms Used
 
@@ -112,7 +112,7 @@ Jupyter Notebook
 
 
 
-**Evaluation Metrics**
+### Evaluation Metrics
 
 Accuracy
 
@@ -124,7 +124,7 @@ F1-Score
 
 
 
-**Results & Performance**
+### Results & Performance
 
 | Model                   | Accuracy | Precision | Recall | F1 Score |
 | -------------------     | -------- | --------- | ------ | -------- |
